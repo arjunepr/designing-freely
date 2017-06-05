@@ -14,6 +14,9 @@ Fonts:
     1. Lato, Helvetica, Verdana, Arial, sans-serif
 
 
+  Note: Georgia and Verdana have higher x-height and thus seem larger.
+
+
  Non-mainstream:
 
   #### Script
