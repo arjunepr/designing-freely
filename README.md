@@ -21,7 +21,7 @@ Fonts:
 
   #### Script
   
-   For a more British feel: [Sofa](https://www.fontsquirrel.com/fonts/sofia)
+   For a more British feel: [Sofia](https://www.fontsquirrel.com/fonts/sofia)
 
   #### Display
    
